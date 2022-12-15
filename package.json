@@ -1,7 +1,0 @@
-{
-  "scripts": {
-    "firefox": "open -a firefox index.html || start firefox index.html",
-    "start": "open index.html || start index.html || xdg-open index.html",
-    "test": "npm doctor"
-  }
-}
